@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Rajesh S]
+# #100DaysOfCode Log - Round 1 - Rajesh S
 
 The log of my #100DaysOfCode challenge. Started on [January 21, Monday, 2019].
 
