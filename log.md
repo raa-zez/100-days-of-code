@@ -7,3 +7,11 @@
 **Thoughts**: I have planned to take this journey by building many projects alongside learning at freecodecamp.
 
 **Link(s) to work**: [Link to my tweet](https://twitter.com/raa_zez/status/1087409177167712261?s=19)
+
+### Day 2: January 22, Tuesday
+
+**Today's Progress**: Like the previous day, today also not much coding. Just completed some challenges at freecodecamp. But learned more about UI/UX and overall designing.
+
+**Thoughts**: I have to find a way to code more and sticking to project(s). Hope I can do so in forthcoming days.
+
+**Link(s) to work**: [Link to my tweet](https://twitter.com/raa_zez/status/1087748587889410050?s=19)
