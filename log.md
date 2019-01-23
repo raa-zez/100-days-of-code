@@ -16,7 +16,7 @@
 
 **Link(s) to work**: [Link to my tweet](https://twitter.com/raa_zez/status/1087748587889410050?s=19)
 
-### Day 2: January 23, Wednesday
+### Day 3: January 23, Wednesday
 
 **Today's Progress**: Done some freecodecamp challenges. Revived some css concepts by creating an abstract graphic at CodePen.io.
 
