@@ -27,5 +27,7 @@
 ### Day 4: January 24, Thursday
 
 **Today's Progress**: Completed CSS flexbox and grid challenges in a single sitting. And started tribute page project.
+
 **Thoughts**: There's a lot left to be done in this project. Hoping to wrap up things as sooner as possible.
-**Link(s) to work**: [Tribute Page] (https://codepen.io/raa_zez/pen/MLaYGo)
+
+**Link(s) to work**: [Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
