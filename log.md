@@ -31,3 +31,11 @@
 **Thoughts**: There's a lot left to be done in this project. Hoping to wrap up things as sooner as possible.
 
 **Link(s) to work**: [Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
+
+### Day 4: January 24, Thursday
+
+**Today's Progress**: Almost finished the tribute page project. Certain little but also important things have to be made to look the layout classy
+
+**Thoughts**: Have to change the look and feel of the page using css and have to fix some issues.
+
+**Link(s) to work**: [Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
