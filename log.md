@@ -32,7 +32,7 @@
 
 **Link(s) to work**: [Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
 
-### Day 4: January 24, Thursday
+### Day 5: January 25, Friday
 
 **Today's Progress**: Almost finished the tribute page project. Certain little but also important things have to be made to look the layout classy
 
