@@ -39,3 +39,12 @@
 **Thoughts**: Have to change the look and feel of the page using css and have to fix some issues.
 
 **Link(s) to work**: [Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
+
+### Day 6: January 26, Saturday
+
+**Today's Progress**: Succesfully completed the tribute page project and have started the next one: Survey form project.
+
+**Thoughts**: It's been great till now in this journey. Hoping to continue the spirit.
+
+**Link(s) to work**: [Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
+                     [Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
