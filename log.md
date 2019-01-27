@@ -49,3 +49,15 @@
 **Link(s) to work**: 
 1.[Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
 2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
+
+
+### Day 7: January 27, Sunday
+
+**Today's Progress**: Due to personal commitments, there was not much coding today. But learned more about user experience and user interaction design concepts and the project of Survey Form is still on.
+
+**Thoughts**: It's been overwhelming mostly because of other commitments. But I have decided to commit to this challenge no matter what.
+
+**Link(s) to work**: 
+1.[Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
+2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
+
