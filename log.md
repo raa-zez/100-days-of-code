@@ -60,4 +60,16 @@
 **Link(s) to work**: 
 1.[Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
 2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
+ 
+
+### Day 7: January 27, Sunday
+
+**Today's Progress**: Today, I skipped the survey form project and did a css button instead. Still, there is lot to be learned.
+
+**Thoughts**: I should finish the survey form project tomorrow and have to finish remaining projects also for claiming the responsive web design certificate.
+
+**Link(s) to work**: 
+1.[Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
+2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
+3.[CSS Button](https://codepen.io/raa_zez/pen/BMzJNY)
 
