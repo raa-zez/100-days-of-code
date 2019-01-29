@@ -62,7 +62,7 @@
 2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
  
 
-### Day 7: January 27, Sunday
+### Day 8: January 28, Monday
 
 **Today's Progress**: Today, I skipped the survey form project and did a css button instead. Still, there is lot to be learned.
 
@@ -72,4 +72,16 @@
 1.[Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
 2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
 3.[CSS Button](https://codepen.io/raa_zez/pen/BMzJNY)
+
+### Day 9: January 29, Tuesday
+
+**Today's Progress**: Today, I improvised and gave animation effect to the CSS Button. 
+
+**Thoughts**: The outcome is good. But there's lot more to achieve. Even after more than a week progress, still feel like code newbie.
+
+**Link(s) to work**: 
+1.[Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
+2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
+3.[CSS Button](https://codepen.io/raa_zez/pen/BMzJNY)
+
 
