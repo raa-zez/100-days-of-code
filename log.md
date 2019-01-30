@@ -84,4 +84,15 @@
 2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
 3.[CSS Button](https://codepen.io/raa_zez/pen/BMzJNY)
 
+### Day 10: January 30, Wednesday
+
+**Today's Progress**: Today, I stepped into the survey form project again but got stuck. Did some changes to the form layout though.
+
+**Thoughts**: Need to fix some issues. CSS is getting tricky for me. 
+
+**Link(s) to work**: 
+1.[Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
+2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
+3.[CSS Button](https://codepen.io/raa_zez/pen/BMzJNY)
+
 
