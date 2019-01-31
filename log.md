@@ -96,3 +96,16 @@
 3.[CSS Button](https://codepen.io/raa_zez/pen/BMzJNY)
 
 
+### Day 11: January 31, Thursday
+
+**Today's Progress**: Finally, I managed to complete the Survey form project. This one was very tricky for me.
+
+**Thoughts**: The more CSS looks easier, the more deceiving it is. I was dumbfounded many times by even little components of CSS. Although I had completed the project, I must say I have learn more and more tricks of CSS. Inheritance would be the key concept which have to be learned.
+
+**Link(s) to work**: 
+1.[Tribute Page](https://codepen.io/raa_zez/pen/MLaYGo)
+2.[Survey Form](https://codepen.io/raa_zez/pen/vbLoQV)
+3.[CSS Button](https://codepen.io/raa_zez/pen/BMzJNY)
+
+
+
