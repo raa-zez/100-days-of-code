@@ -134,7 +134,7 @@
 **Thoughts**: Planned to complete few other projects.
 
 **Link(s) to work**: 
-1.[SpinBoxes](https://codepen.io/raa_zez/pen/YBZbEp)
+1.[SpinBoxes](https://codepen.io/raa_zez/full/qgmomm)
 
 
 
