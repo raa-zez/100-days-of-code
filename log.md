@@ -127,4 +127,14 @@
 1.[Product landing Page](https://codepen.io/raa_zez/pen/YBZbEp)
 
 
+### Day 13: February 2, Saturday
+
+**Today's Progress**: Worked on an CSS animation project comprising simple random motions.
+
+**Thoughts**: Planned to complete few other projects.
+
+**Link(s) to work**: 
+1.[SpinBoxes](https://codepen.io/raa_zez/pen/YBZbEp)
+
+
 
