@@ -137,4 +137,25 @@
 1.[SpinBoxes](https://codepen.io/raa_zez/full/qgmomm)
 
 
+### Day 14: February 3, Sunday
+
+**Today's Progress**: Tested a long ago done project(webpage). But not much coding for this day.
+
+**Thoughts**: It's easy to give up. But I'm findind ways to stick with this.
+
+**Link(s) to work**: 
+1.[Link to my tweet](https://twitter.com/raa_zez/status/1092100159075315712?s=19)
+
+
+### Day 15: February 4, Monday
+
+**Today's Progress**: Set up environment of Visual Studio Code for the product landing page project. Done some codes, but didn't upload my progress in internet and so I have given link tomy tweet.
+
+**Thoughts**: Same as the previuos day : 'It's easy to give up. But I'm findind ways to stick with this.'
+
+**Link(s) to work**: 
+1.[Link to my tweet](https://twitter.com/raa_zez/status/1092471255721103362?s=19)
+
+
+
 
