@@ -151,10 +151,20 @@
 
 **Today's Progress**: Set up environment of Visual Studio Code for the product landing page project. Done some codes, but didn't upload my progress in internet and so I have given link tomy tweet.
 
-**Thoughts**: Same as the previuos day : 'It's easy to give up. But I'm findind ways to stick with this.'
+**Thoughts**: Same as the previuos day : 'It's easy to give up. But I'm finding ways to stick with this.'
 
 **Link(s) to work**: 
 1.[Link to my tweet](https://twitter.com/raa_zez/status/1092471255721103362?s=19)
+
+
+### Day 16: February 5, Tuesday
+
+**Today's Progress**: Found a course on CSS Grids offered by [wesbos](https://github.com/wesbos) in collaboartion with [Firefox](https://github.com/topics/firefox) and joined. Implemented some simple codes demonstrating grids. 
+
+**Thoughts**: Same as the previuos day : 'It's easy to give up. But I'm finding ways to stick with this.'
+
+**Link(s) to work**: 
+1.[CSS Grid](https://codepen.io/raa_zez/full/gqxJYN)
 
 
 
