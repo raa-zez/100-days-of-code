@@ -167,5 +167,15 @@
 1.[CSS Grid](https://codepen.io/raa_zez/full/gqxJYN)
 
 
+### Day 17: February 6, Wednesday
+
+**Today's Progress**: Got back to a previous CSS animation Project and worked on enhancing it more. 
+
+**Thoughts**: Same as the previuos day : 'It's easy to give up. But I'm finding ways to stick with this.'
+
+**Link(s) to work**: 
+1.[SpinBoxes](https://codepen.io/raa_zez/full/qgmomm)
+
+
 
 
