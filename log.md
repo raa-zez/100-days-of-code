@@ -177,5 +177,15 @@
 1.[SpinBoxes](https://codepen.io/raa_zez/full/qgmomm)
 
 
+### Day 17: February 7, Thursday
+
+**Today's Progress**: Worked on a simple animation project.
+
+**Thoughts**: Same as the previuos day : 'It's easy to give up. But I'm finding ways to stick with this.'
+
+**Link(s) to work**: 
+1.[Animate](https://codepen.io/raa_zez/full/gqoMOO)
+
+
 
 
