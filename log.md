@@ -177,7 +177,7 @@
 1.[SpinBoxes](https://codepen.io/raa_zez/full/qgmomm)
 
 
-### Day 17: February 7, Thursday
+### Day 18: February 7, Thursday
 
 **Today's Progress**: Worked on a simple animation project.
 
